@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArsenyPalchikov
 - 👀 I’m interested in Web Development, Frontend
 - 🌱 I’m currently learning React, Redux, Javascript, CSS, HTML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram arseny_08
 
 <!---
